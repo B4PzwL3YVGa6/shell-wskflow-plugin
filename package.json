@@ -4,7 +4,6 @@
   "description": "Visualizations for Composer apps",
   "main": "plugin.js",
   "scripts": {
-    "postinstall": "cd node_modules/elkjs/lib && rm elk.bundled.js elk-worker.js",
     "test": "cd ../tests && npm run test"
   },
   "keywords": [
